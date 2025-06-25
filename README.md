@@ -31,8 +31,9 @@ CVEs: [CVE-2007-4723 CVE-2009-0796 CVE-2009-2299 CVE-2011-1176 CVE-2011-2688 CVE
 
 #### 安装
 
-> go get github.com/dusbot/cpe2cve
-
+```bash
+go get github.com/dusbot/cpe2cve
+```
 #### 使用
 
 ```go
